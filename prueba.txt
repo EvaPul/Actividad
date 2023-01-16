@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Este es mi cambio de la rama master
+=======
+Esta es la rama amarilla
+>>>>>>> amarilla
